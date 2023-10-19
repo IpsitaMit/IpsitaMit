@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IpsitaMit
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning how to learn
+- 🌱 I’m currently learning BTech CSE @BPPIMT
 - 💞️ I’m looking to collaborate on webdevelopment projects
 - 📫 How to reach me mitraipsita2@gmail.com
 
